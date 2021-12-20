@@ -1,4 +1,7 @@
 # hyperscan-cpp-wrapper
+
+![Build Status](https://github.com/osadalakmal/hyperscan-cpp-wrapper/actions/workflows/cmake.yml/badge.svg)
+
 A c++ wrapper for intel hyperscan regex library
 
 ## Goals
